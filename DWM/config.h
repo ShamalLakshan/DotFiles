@@ -1,5 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
+#include <X11/XF86keysym.h>
+
 /* appearance */
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int gappx     = 5;        /* gaps between windows */	
@@ -72,10 +74,13 @@ static const char *dmenucmd[] = { "rofi -show run"};
 static const char *termcmd[]  = { "st", NULL };
 
 static const char *roficmd[] = { "rofi", "-show", "drun", "-show-icons", NULL };
-static const char *fehcmd[] = {"feh",  "--bg-fill",  "--randomize", "~/Wallpapers/*", NULL};
+static const char *volumeUp[] = { "pactl", "set-sink-volume", "@DEFAULT_SINK@", "+5%", NULL};
+static const char *volumeDown[] = { "pactl", "set-sink-volume", "@DEFAULT_SINK@", "-5%", NULL};
 
 static Key keys[] = {
 	/* modifier                     key        function        argument */
+	{0, 							XF86XK_AudioRaiseVolume, spawn, {.v = volumeUp } },
+	{0, 							XF86XK_AudioLowerVolume, spawn, {.v = volumeDown } },
 	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
@@ -92,7 +97,6 @@ static Key keys[] = {
 	{ MODKEY,                       XK_t,  	   setlayout,      {0} },
 	// { MODKEY,                       XK_space,  spawn,          {.v = dmenucmd } },
 	{ MODKEY, 						XK_space, 	   spawn,          {.v = roficmd } }, 
-	{ MODKEY,                       XK_c,      spawn,       {.v = fehcmd} },
 	{ MODKEY,			XK_Return, spawn,          {.v = termcmd } },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
