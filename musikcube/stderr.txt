@@ -1,0 +1,372 @@
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+[2024-08-20 08:50:32] [info] asio async_connect error: asio.system:111 (Connection refused)
+[2024-08-20 08:50:32] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
+[2024-08-20 08:50:32] [error] handle_connect error: Connection refused
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f6de8012010] Protocol name not provided, cannot determine if input is local or a network protocol, buffers and access patterns cannot be configured optimally without knowing the protocol
+[mp3 @ 0x7f6e00004430] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0000fb70] Could not update timestamps for skipped samples.
+PulseOut: opening device 
+pulse_blocking_stream: CHECK_VALIDITY server
+pulse_blocking_stream: CHECK_VALIDITY dir
+pulse_blocking_stream: CHECK_VALIDITY device
+pulse_blocking_stream: CHECK_VALIDITY spec
+pulse_blocking_stream: CHECK_VALIDITY channel map
+pulse_blocking_stream: context is ready
+pulse_blocking_stream: stream is ready
+[mp3 @ 0x7f6de00027d0] Failed to find two consecutive MPEG audio frames.
+[mp3 @ 0x7f6de0002950] Failed to find two consecutive MPEG audio frames.
+[mp3 @ 0x7f6de00008d0] Failed to find two consecutive MPEG audio frames.
+[mp3 @ 0x7f6de00008d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0005b00] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e00023cd0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0001c030] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de4002860] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de400d790] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de00056b0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0003f90] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de00053d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0002560] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de4016ab0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de40204f0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e000008d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0000f670] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de0018ed0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de00033b0] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[2024-08-20 08:56:08] [error] Handshake ended with HTTP error: 426
+[2024-08-20 08:56:08] [error] Handshake ended with HTTP error: 426
+[2024-08-20 08:56:11] [error] Handshake ended with HTTP error: 426
+[2024-08-20 08:56:33] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[2024-08-20 08:56:38] [error] Handshake ended with HTTP error: 426
+[mp3float @ 0x7f6e0000f670] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6e000199e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0001ac70] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6dec006be0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6dec003b30] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de0003c30] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0005110] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f6dec003b30] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6dec006be0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6dec020b10] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+couldn't open play stream: Device or resource busy
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[mp3float @ 0x7f6de0005110] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6de0004cd0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de00021c0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e0001c3a0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0000e1e0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6dec006be0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6dec003300] Could not update timestamps for skipped samples.
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[mp3float @ 0x7f6e0000e1e0] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6e00019130] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e0001c7e0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de0028390] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de001a830] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6dec006ed0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6dec02b0e0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f6de001a830] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6de0002940] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de001c0f0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f6dec02b0e0] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6dec021440] Failed to find two consecutive MPEG audio frames.
+[mp3float @ 0x7f6de001c0f0] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6de001aba0] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6de001aba0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6dec003ea0] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6dec003ea0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6de0002940] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6de0002940] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6dec0125b0] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6dec0125b0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6e00019130] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6e00019130] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6de0002940] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6de0002940] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[mp3 @ 0x7f6e00019130] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6e00019130] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3 @ 0x7f6de001aba0] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6de001aba0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e000034b0] invalid new backstep -1
+[flac @ 0x7f6de001aba0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+PulseOut: closing device
+PulseOut: opening device 
+pulse_blocking_stream: CHECK_VALIDITY server
+pulse_blocking_stream: CHECK_VALIDITY dir
+pulse_blocking_stream: CHECK_VALIDITY device
+pulse_blocking_stream: CHECK_VALIDITY spec
+pulse_blocking_stream: CHECK_VALIDITY channel map
+pulse_blocking_stream: context is ready
+pulse_blocking_stream: stream is ready
+[mp3 @ 0x7f6e00019960] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e00002ad0] Could not update timestamps for skipped samples.
+[flac @ 0x7f6de0002c00] invalid residual
+[flac @ 0x7f6de0002c00] decode_frame() failed
+PulseOut: closing device
+PulseOut: opening device 
+pulse_blocking_stream: CHECK_VALIDITY server
+pulse_blocking_stream: CHECK_VALIDITY dir
+pulse_blocking_stream: CHECK_VALIDITY device
+pulse_blocking_stream: CHECK_VALIDITY spec
+pulse_blocking_stream: CHECK_VALIDITY channel map
+pulse_blocking_stream: context is ready
+pulse_blocking_stream: stream is ready
+[mp3 @ 0x7f6de001aba0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0019310] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e00019960] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e000159a0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f6de0019310] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6de0029d90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0005480] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e00019960] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e00022850] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de0017b40] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de001c760] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6e00019620] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6e000189c0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f6de0017b40] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f6de0003a90] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f6e000189c0] Could not update timestamps for discarded samples.
+[mp3 @ 0x7f6e00019620] Estimating duration from bitrate, this may be inaccurate
+[mp3 @ 0x7f6e00019620] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut::PulseOut() called
+AlsaOut::AlsaOut() called
+SndioOut Info: ---------- sndout.ctor ----------
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+SndioOut Info: joining thread
+couldn't open play stream: Device or resource busy
+SndioOut Info: failed to init device
+SndioOut Info: thread finished
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
